@@ -1,4 +1,4 @@
-# CS4783-DevOps
+# CS4843-Cloud Computing
 Howdy, here's how you can run my Node + Express build locally.
 # Running Locally
 

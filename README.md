@@ -41,11 +41,11 @@ access-restricted with an API key you must update in `.env`. [Yarn](https://yarn
 
 # Endpoints
 
-The endpoints in homework 1 are ```/hello``` and ```/swagger.json```, these are accessible by adding the ```/``` to the end of the URL ```localhost:8080```.
+The endpoints are ```/hello``` and ```/swagger.json```, these are accessible by adding the ```/``` to the end of the URL ```localhost:8080```.
 
-The endpoints in homework 2 are ```/properties/``` and any ```/properties/{id}``` wildcard related requests.
+The endpoints are ```/properties/``` and any ```/properties/{id}``` wildcard related requests.
 
-API Key validation in homework 3 has been added, you will need to put your API key into the .env folder.
+API Key validation has been added, you will need to put your API key into the .env folder.
 Mocha tests have been implemented with chai and will work for now, but will require ID updates depending on if the DB+Table is fresh
 
 Example:
